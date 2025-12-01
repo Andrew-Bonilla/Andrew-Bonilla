@@ -6,10 +6,11 @@
 
 <p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm currently involved with Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
 
+<h1>More Info About Me</h1>
 <ul>
-  <p>I love to run ⛹️‍♂️</p>
-  <p>I know how to play piano, but I'm learning how to create music digitally now!</p>
-  <p>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows, which are what got me started with programming from making ROBLOX videogames.</p>
+  <li>I love to run ⛹️‍♂️</li>
+  <li>I know how to play piano, but I'm learning how to create music digitally now!</li>
+  <li>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows, which are what got me started with programming from making ROBLOX videogames.</li>
 </ul>
 
 <!--
