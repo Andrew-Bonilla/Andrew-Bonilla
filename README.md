@@ -6,7 +6,7 @@
 
 <p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm currently involved with Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
 
-<p>As a low-income student, my passion is making technology that enables the abilities and opportunities of others. Much of that comes from understanding UI/UX, and so I have a lot of designs I love to share and talk about!</p>
+<p>As a low-income student, my passion is making technology that enables the abilities and opportunities of others. Much of that comes from understanding the user's needs and perspective via UI/UX, and so I have a lot of designs I love to share and talk about!</p>
 
 <ul>
   <li>I love to run ⛹️‍♂️</li>
