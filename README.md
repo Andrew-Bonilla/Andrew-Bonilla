@@ -6,9 +6,12 @@
 
 <p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm currently involved with Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
 
-<p>I love to run ⛹️‍♂️</p>
-<p>I know how to play piano, but I'm learning how to create music digitally now!</p>
-<p>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows, which are what got me started with programming from making ROBLOX videogames.</p>
+<ul>
+  <p>I love to run ⛹️‍♂️</p>
+  <p>I know how to play piano, but I'm learning how to create music digitally now!</p>
+  <p>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows, which are what got me started with programming from making ROBLOX videogames.</p>
+</ul>
+
 <!--
 **Andrew-Bonilla/Andrew-Bonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
