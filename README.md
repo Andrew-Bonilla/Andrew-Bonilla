@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Andrew! 👋
+
+I program in <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />,
 
 <!--
 **Andrew-Bonilla/Andrew-Bonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
