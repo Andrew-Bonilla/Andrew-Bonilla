@@ -17,7 +17,7 @@
 <p>As a low-income student, my passion is making technology that enables the abilities and opportunities of others. Much of that comes from understanding the user's needs and perspective via UI/UX, and so I have a lot of designs I love to share and talk about!</p>
 
 <ul>
-  <li>I love to run ⛹️‍♂️</li>
+  <li>I love to run and play basketball ⛹️‍♂️</li>
   <li>I know how to play piano and a bit of guitar. Now, I'm learning how to create music digitally!</li>
   <li>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows, which are what got me started with programming from making ROBLOX videogames.</li>
 </ul>
