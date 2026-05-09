@@ -28,9 +28,9 @@
 
 <ul>
 
-  <li>I love to run and play basketball ⛹️‍♂️</li>
+  <li>I play piano and a bit of guitar. I'm learning how to code music/sounds, and I've made a few projects! This includes Farnell Synthesis, a musical Cellular Automota, Markov Chain Learning, Pitch Set Theory, and creating my own synths/piano with AM/FM/LFOs/oscillators. I'm also creating digital music on Ableton!</li>
 
-  <li>I play piano and a bit of guitar. I'm learning how to code music/sounds, and I've made a few projects! I'm also creating digital music on Ableton.</li>
+  <li>I love to run and play basketball ⛹️‍♂️</li>
 
   <li>I'm a big fan of reading manga (Jujutsu Kaisen, One Piece) and watching TV shows. That's what got me started with programming: making adventure/combat videogames.</li>
 
