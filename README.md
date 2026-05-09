@@ -2,7 +2,7 @@
 
 <p>
   Mission lead @ <a href="https://columbiaspace.org">Columbia Space Initiative</a> - 
-  building AR tools and UIs for NASA's SUITS program. CS student at Columbia, 
+  building AR tools, software, and UIs for NASA's SUITS program. CS student at Columbia, 
   passionate about technology that expands what people can do.
 </p>
 
