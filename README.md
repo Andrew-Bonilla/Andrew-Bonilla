@@ -18,7 +18,7 @@
 
 
 
-<p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm currently involved with Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
+<p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm an incoming mission lead for Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
 
 
 
