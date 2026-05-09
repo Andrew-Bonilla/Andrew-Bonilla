@@ -14,7 +14,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
-<p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm an incoming mission lead for Columbia's Space Initiative on the SUITS team, where we build AR space tools and user interfaces, collaborating directly with NASA engineers!</p>
+<p>I've worked on many projects, ranging from mobile apps to software for future lunar missions. I'm an incoming mission lead for Columbia's Space Initiative on the SUITS team, where we collaborate directly with NASA engineers!</p>
 
 <p>As a low-income student, my passion is making technology that enables the abilities and opportunities of others. Much of that comes from understanding the user's needs and perspective via UI/UX. I care a lot about UI/UX -- most of my projects start from asking what someone actually needs, then designing from there. I have designs I love to talk about!</p>
 
