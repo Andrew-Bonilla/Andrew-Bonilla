@@ -3,7 +3,7 @@
 <p>
   Mission lead @ <a href="https://columbiaspace.org">Columbia Space Initiative</a> - 
   building AR tools, software, and UIs for NASA's SUITS program. CS student at Columbia, 
-  passionate about technology that expands what people can do. Currently working on the open-source FPGA cloud [here](https://github.com/Barnard-PL-Labs/Cloud_FPGA).
+  passionate about technology that expands what people can do. Currently working on the open-source FPGA cloud [in this link](https://github.com/Barnard-PL-Labs/Cloud_FPGA)
 </p>
 
 <h4>I program in ...</h4>
