@@ -3,7 +3,7 @@
 <p>
   Mission lead @ <a href="https://columbiaspace.org">Columbia Space Initiative</a> - 
   building AR tools, software, and UIs for NASA's SUITS program. CS student at Columbia, 
-  passionate about technology that expands what people can do. Currently working on the fundamental gap in modern AI: agents are great at writing software, but horrible at the minute details of hardware design, requiring experts in the field. I'm working at the Barnard PL Lab to get agents to understand the physical world, designing hardware through an open-source FPGA cloud.
+  passionate about technology that expands what people can do. Currently working on the fundamental gap in modern AI: agents are great at writing software, but horrible at the minute details of hardware design, requiring experts in the field. I'm working at the Barnard PL Lab to get agents to understand the physical world, designing hardware through an open-source FPGA cloud. This will enable more professionals to work with hardware, accelerate the engineering/design process of experts through autonomous research/assistance, and discover new circuits.
 </p>
 
 <h4>I program in ...</h4>
